@@ -1,0 +1,146 @@
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.exe
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.deps.json
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.json
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.dev.json
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.AssemblyReference.cache
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.g.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.g.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.cache
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.lref
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.baml
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.baml
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.g.resources
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfoInputs.cache
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfo.cs
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CopyComplete
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+C:\Users\bareuther\Desktop\11_Ticketsystem_WPF_DB_DataBinding_2023_02_14\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.genruntimeconfig.cache
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.exe
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.deps.json
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.json
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.dev.json
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\Google.Protobuf.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\MySql.Data.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ZstdNet.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.AssemblyReference.cache
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.g.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.g.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.g.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.cache
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.lref
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.baml
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.baml
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.baml
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.g.resources
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfoInputs.cache
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfo.cs
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CoreCompileInputs.cache
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CopyComplete
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+K:\BFI11A\C#_BAR_RAU\Lehrerlösungen\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.genruntimeconfig.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.exe
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.deps.json
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.json
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.dev.json
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\Google.Protobuf.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\MySql.Data.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ZstdNet.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.AssemblyReference.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.g.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.g.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.g.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.lref
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.baml
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.baml
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.baml
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.g.resources
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfoInputs.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfo.cs
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CoreCompileInputs.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CopyComplete
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\refint\11_Ticketsystem_WPF_DB_DataBinding.dll
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.genruntimeconfig.cache
+H:\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.exe
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.deps.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.runtimeconfig.dev.json
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.AssemblyReference.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding_MarkupCompile.lref
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\KundeDetailDlg.baml
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\TicketDetailDlg.baml
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.g.resources
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfoInputs.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.AssemblyInfo.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.csproj.CopyComplete
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\refint\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.pdb
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\11_Ticketsystem_WPF_DB_DataBinding.genruntimeconfig.cache
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\ref\11_Ticketsystem_WPF_DB_DataBinding.dll
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\ProtokollDlg.g.cs
+C:\Users\geyern\OneDrive\EDV-Schule\SJ 2022 - 2023\C#\Programme\11_Ticketsystem_WPF_DB_DataBinding_2023_02_16\07_Ticketsystem_WPF\obj\Debug\net5.0-windows\UI\ProtokollDlg.baml
