@@ -1,5 +1,4 @@
 ﻿################################################################################
 # Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
 ################################################################################
-
 /Ticketsystem_WPF_DB_DataBinding/07_Ticketsystem_WPF/Persistenz/DBZugriff.cs
